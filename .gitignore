@@ -1,0 +1,16 @@
+pyser/__pycache__
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+
+*.egg-info
+
+build/
+dist/
+*.spec
+
+*.log*
